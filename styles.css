@@ -1,4 +1,17 @@
 body {
-    background-color: rgba(0, 0, 0, 0.932);
+    background-color: #fff;
     background-attachment: fixed;
+    text-transform: uppercase;
+}
+
+.card-img-overlay {
+    background-color: rgba(0, 0, 0, 0.616);
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 70px;
+    padding-left: 70px;
+    margin-right: auto;
+    margin-left: auto;
 }
